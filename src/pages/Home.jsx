@@ -27,7 +27,7 @@ const Home = () => {
           Welcome to My Portfolio
         </h1>
         <p className="text-xl text-black dark:text-white mb-4">
-          Hi, I'm <strong> Irfan Khan </strong>, a <strong>React Frontend Developer</strong>
+          Hi, I'm <strong> Irfan Khan </strong>, a <strong>Senior React Frontend Developer</strong>
         </p>
         <p className="text-lg text-black dark:text-white mb-4">
           I specialize in creating amazing web experiences.
