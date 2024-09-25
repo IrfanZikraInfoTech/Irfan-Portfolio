@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="h-full p-8 bg-white dark:bg-gray-800 flex items-center justify-center">
       <div className="max-w-lg w-full">
-        <h1 className="text-3xl text-center font-bold mb-8 text-black dark:text-white">
+        <h1 className="text-3xl animate-bounce animate-once text-center font-bold mb-8 text-black dark:text-white">
           Contact Me
         </h1>
         <form className="space-y-6">

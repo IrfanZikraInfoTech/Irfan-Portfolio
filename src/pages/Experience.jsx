@@ -22,7 +22,7 @@ const experiences = [
 const Experience = () => {
   return (
     <div className="h-full p-8 dark:bg-gray-900">
-      <h1 className="text-3xl text-center font-bold mb-8 text-black dark:text-white">
+      <h1 className="text-3xl animate-bounce animate-once text-center font-bold mb-8 text-black dark:text-white">
         Experience
       </h1>
       <div className="space-y-8">

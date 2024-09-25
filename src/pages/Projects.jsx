@@ -3,7 +3,7 @@ import React from "react";
 const Projects = () => {
   return (
     <div className="h-full p-8 bg-gray-100 dark:bg-gray-900">
-      <h1 className="text-3xl text-center font-bold mb-4 text-black dark:text-white">
+      <h1 className="text-3xl animate-bounce animate-once text-center font-bold mb-4 text-black dark:text-white">
         Projects
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
